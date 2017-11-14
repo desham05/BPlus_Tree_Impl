@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_66"/>
+	<classpathentry kind="lib" path="E:/Gotu/Uta Academics/DBMS_Model_And_Implementation/Project 1/btree_project_1(1)/btree_project_1/lib/btreelib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
